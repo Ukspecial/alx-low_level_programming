@@ -1,8 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* main - Entry point */
-/* Return: Always 0 (success) */
+
+/**
+* main - Entry point
+*
+* Description: testing for positive, 0, positive
+*
+* Return: Always 0 (success)
+*/
 int main(void)
 {
 	int n;
